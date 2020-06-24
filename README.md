@@ -1,5 +1,5 @@
-# BMI_UI
 
 # BMI UI APP
 
-Beautiful BMI UI created with Flutter.
+Beautiful BMI UI App created with Flutter.
+Final APK ready to install
